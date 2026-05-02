@@ -1,0 +1,7 @@
+transformers
+datasets
+torch
+evaluate
+pandas
+gradio
+rouge_score
